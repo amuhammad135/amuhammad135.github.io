@@ -1,0 +1,16 @@
+.backgroundHeight {
+  height: 70rem;
+}
+
+.backgroundGradient {
+  background: linear-gradient(17deg, rgba(0, 0, 0, 0.92), hsla(0, 0%, 9%, 0.61) 36%, hsla(0, 0%, 100%, 0));
+}
+
+.backgroundImage {
+  background: url('../assets/images/teaching.png') no-repeat;
+  background-size: 100%;
+}
+
+.content {
+  color: white;
+}
